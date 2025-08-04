@@ -1,0 +1,1 @@
+⚠️ Disclaimer: This is a fictional demo project inspired by CRM customizations built using Microsoft Dynamics 365. It contains only mock data and anonymized code patterns. It does not represent any real client or proprietary system.
