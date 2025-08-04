@@ -1,0 +1,68 @@
+13:31:31	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.
+13:34:37	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+13:34:37	© 2020 Microsoft Corporation. All rights reserved
+13:34:37	
+13:34:37	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+13:34:45	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.
+15:36:15	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+15:36:15	© 2020 Microsoft Corporation. All rights reserved
+15:36:15	
+15:36:15	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+14:09:54	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+15:04:33	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+06:03:32	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+06:03:36	   at Microsoft.Xrm.Sdk.IOrganizationService.Execute(OrganizationRequest request)
+06:03:36	   at Microsoft.Xrm.Sdk.WebServiceClient.OrganizationWebProxyClient.<>c__DisplayClass40_0.<ExecuteCore>b__0()
+06:03:36	   at Microsoft.Xrm.Sdk.WebServiceClient.WebProxyClient`1.ExecuteAction[TResult](Func`1 action)
+06:03:36	   at Microsoft.Xrm.Sdk.WebServiceClient.OrganizationWebProxyClient.ExecuteCore(OrganizationRequest request)
+06:03:36	   at Microsoft.Xrm.Sdk.WebServiceClient.OrganizationWebProxyClient.Execute(OrganizationRequest request)
+06:03:36	   at spkl.CrmSvcUtilExtensions.MetadataProviderQueryService.RetrieveEntities(IOrganizationService service)
+06:03:36	   at Microsoft.Crm.Services.Utility.SdkMetadataProviderService.LoadMetadata(IServiceProvider service)
+06:03:36	   at Microsoft.Crm.Services.Utility.CrmSvcUtil.Run()
+06:03:36	   at Microsoft.Crm.Services.Utility.CrmSvcUtil.Main(String[] args)
+06:03:36	======================================================================================================================
+06:03:36	
+06:05:56	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+11:44:26	© 2020 Microsoft Corporation. All rights reserved
+11:44:26	
+11:44:26	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+11:44:39	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.
+12:10:52	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+12:16:16	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+12:16:16	© 2020 Microsoft Corporation. All rights reserved
+12:16:16	
+12:16:16	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+12:16:26	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.
+12:17:18	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+14:49:52	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+14:57:04	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+15:09:54	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+15:09:54	© 2020 Microsoft Corporation. All rights reserved
+15:09:54	
+15:09:54	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+15:10:07	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.
+15:12:03	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+15:15:57	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+15:17:04	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+15:25:46	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+23:05:06	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+23:05:06	© 2020 Microsoft Corporation. All rights reserved
+23:05:06	
+23:05:06	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+23:05:23	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.
+12:18:24	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+12:18:24	© 2020 Microsoft Corporation. All rights reserved
+12:18:24	
+12:18:24	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+15:59:06	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+17:04:12	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+17:04:21	   at Microsoft.Xrm.Sdk.IOrganizationService.Execute(OrganizationRequest request)
+17:04:21	   at Microsoft.Xrm.Sdk.WebServiceClient.OrganizationWebProxyClient.<>c__DisplayClass40_0.<ExecuteCore>b__0()
+17:04:21	   at Microsoft.Xrm.Sdk.WebServiceClient.WebProxyClient`1.ExecuteAction[TResult](Func`1 action)
+17:04:21	   at Microsoft.Xrm.Sdk.WebServiceClient.OrganizationWebProxyClient.ExecuteCore(OrganizationRequest request)
+17:04:21	   at Microsoft.Xrm.Sdk.WebServiceClient.OrganizationWebProxyClient.Execute(OrganizationRequest request)
+17:04:21	   at spkl.CrmSvcUtilExtensions.MetadataProviderQueryService.RetrieveEntities(IOrganizationService service)
+17:04:21	   at Microsoft.Crm.Services.Utility.SdkMetadataProviderService.LoadMetadata(IServiceProvider service)
+17:04:21	   at Microsoft.Crm.Services.Utility.CrmSvcUtil.Run()
+13:48:34	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+08:13:15	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]

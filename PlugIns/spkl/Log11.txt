@@ -1,0 +1,32 @@
+15:04:33	© 2020 Microsoft Corporation. All rights reserved
+15:04:33	
+15:04:33	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+15:04:44	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.
+06:03:32	© 2020 Microsoft Corporation. All rights reserved
+06:03:32	
+06:03:32	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+06:05:56	© 2020 Microsoft Corporation. All rights reserved
+06:05:56	
+06:05:56	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+06:06:05	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.
+12:10:52	© 2020 Microsoft Corporation. All rights reserved
+12:10:52	
+12:10:52	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+12:11:05	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.
+12:33:20	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+12:33:20	© 2020 Microsoft Corporation. All rights reserved
+12:33:20	
+12:33:20	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+12:33:33	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.
+15:15:57	© 2020 Microsoft Corporation. All rights reserved
+15:15:57	
+15:15:57	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+15:16:10	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.
+16:43:58	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.
+21:22:19	© 2020 Microsoft Corporation. All rights reserved
+21:22:19	
+21:22:19	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+18:32:02	© 2020 Microsoft Corporation. All rights reserved
+18:32:02	
+18:32:02	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+18:32:18	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.

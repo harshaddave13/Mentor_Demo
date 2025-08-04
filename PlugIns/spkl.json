@@ -1,0 +1,43 @@
+{
+  "webresources": [
+    {
+      "profile": "default,debug",
+
+      /*
+          Optional - solution - Add webresources to a solution when deploying
+          */
+      "solution": "mentor",
+      /*
+          Required - files - List the webresources to deploy relatative to the root of this file (or the the root parameter above)
+          Optional when autodetect=yes
+          */
+      "files": [
+        {
+          "uniquename": "men_/js/clienthooks.js",
+          "file": "..\\ClientHooksJS\\dist\\clienthooks.js",
+          "description": "Mentor Client JavaScript hooks for Form/Ribbon & Grid customisations"
+        }
+      ]
+    }
+  ],
+  "plugins": [
+    {
+      "profile": "default,debug",
+      "solution": "mentor",
+      "assemblypath": "bin\\Debug"
+    }
+  ],
+  "earlyboundtypes": [
+    {
+      "entities": "account,contact,men_instructorschedule,men_instructor,men_scheduletrainingdetails,men_coursebooking,men_courseorder,men_course,men_accreditationbody,men_experiencelevel,men_trucktype,men_attachment,men_truckcategory,men_scheduleinstructorcourse,men_coursedelegate,men_instructortruckattachment,men_instructorbooking,men_coursecostline,men_instructorcoursedays,men_truck,men_trainingcentrecourse,men_trainingcentrecoursedetail,msdyn_organizationalunit,bookableresource,bookableresourcebooking,men_conversionmatrix,men_pricebook,msdyn_resourcerequirement,men_courseorderhistory,men_coursehistory,email,quote,product,msdyn_bookingsetupmetadata,men_mentorsettings,men_shift,quotedetail,men_courselineitem,systemuser,salesorder,salesorderdetail,men_supplement,men_instructorpaygrade,men_accreditationfee,quoteclose,msdyn_requirementcharacteristic,characteristic,msdyn_resourcerequirementdetail,msdyn_requirementresourcepreference,msdyn_timegroup,men_band,men_paygradeband,bookableresourcebookingheader,activityparty,men_instructormonthproforma,men_delegate,men_delegatepath,men_customerrefresherimport,pricelevel,productpricelevel,documenttemplate",
+      "actions": "",
+      "generateOptionsetEnums": true,
+      "generateGlobalOptionsets": true,
+      "generateStateEnums": true,
+      "filename": "EarlyBoundTypes.cs",
+      "classNamespace": "Mentor.PlugIns",
+      "serviceContextName": "XrmSvc",
+      "oneTypePerFile": false
+    }
+  ]
+}

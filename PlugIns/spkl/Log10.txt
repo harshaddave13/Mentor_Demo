@@ -1,0 +1,96 @@
+15:36:24	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.
+15:12:42	© 2020 Microsoft Corporation. All rights reserved
+15:12:42	
+15:12:42	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+15:12:53	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.
+14:09:54	© 2020 Microsoft Corporation. All rights reserved
+14:09:54	
+14:09:54	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+14:10:04	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.
+12:17:18	© 2020 Microsoft Corporation. All rights reserved
+12:17:18	
+12:17:18	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+12:17:28	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.
+12:26:57	© 2020 Microsoft Corporation. All rights reserved
+12:26:57	
+12:26:57	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+12:27:07	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.
+14:49:52	© 2020 Microsoft Corporation. All rights reserved
+14:49:52	
+14:49:52	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+14:50:14	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.
+14:57:04	© 2020 Microsoft Corporation. All rights reserved
+14:57:04	
+14:57:04	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+14:57:18	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.
+14:59:59	© 2020 Microsoft Corporation. All rights reserved
+14:59:59	
+14:59:59	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+15:00:15	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.
+15:12:03	© 2020 Microsoft Corporation. All rights reserved
+15:12:03	
+15:12:03	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+15:12:15	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.
+15:17:04	© 2020 Microsoft Corporation. All rights reserved
+15:17:04	
+15:17:04	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+15:17:17	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.
+15:25:46	© 2020 Microsoft Corporation. All rights reserved
+15:25:46	
+15:25:47	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+15:26:00	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.
+16:43:42	© 2020 Microsoft Corporation. All rights reserved
+16:43:42	
+16:43:43	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+15:59:06	© 2020 Microsoft Corporation. All rights reserved
+15:59:06	
+15:59:06	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+15:59:22	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.
+17:04:12	© 2020 Microsoft Corporation. All rights reserved
+17:04:12	
+17:04:12	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+17:04:21	CrmSvcUtil Error: 2 : Exiting program with exit code 2 due to exception : Exception details: 
+17:04:21	ErrorCode: 0x80040217
+17:04:21	Message: Could not find an entity with name men_instructorschedule and id 00000000-0000-0000-0000-000000000000 (117156040).
+17:04:21	TimeStamp: 2024-07-23T16:04:20.5033236Z
+17:04:21	--
+17:04:21	Exception details: 
+17:04:21	ErrorCode: 0x80040217
+17:04:21	Message: Could not find an entity with name men_instructorschedule and id 00000000-0000-0000-0000-000000000000 (117156040).
+17:04:21	TimeStamp: 2024-07-23T16:04:20.5033236Z
+17:04:21	--
+17:04:21	
+17:04:21	CrmSvcUtil Error: 2 : ===== DETAIL ======
+17:04:21	CrmSvcUtil Error: 2 : Source	: mscorlib
+17:04:21	Method	: HandleReturnMessage
+17:04:21	Date	: 17:04:21
+17:04:21	Time	: 23/07/2024
+17:04:21	Error	: Could not find an entity with name men_instructorschedule and id 00000000-0000-0000-0000-000000000000 (117156040).
+17:04:21	Stack Trace	: Server stack trace: 
+17:04:21	   at System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+17:04:21	   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+17:04:21	   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+17:04:21	   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+17:04:21	
+17:04:21	Exception rethrown at [0]: 
+17:04:21	   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+17:04:21	   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+17:08:04	© 2020 Microsoft Corporation. All rights reserved
+17:08:04	
+17:08:04	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+17:08:20	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.
+12:15:51	© 2020 Microsoft Corporation. All rights reserved
+12:15:51	
+12:15:51	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+12:16:06	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.
+13:48:34	© 2020 Microsoft Corporation. All rights reserved
+13:48:34	
+13:48:34	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+13:48:51	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.
+08:13:15	© 2020 Microsoft Corporation. All rights reserved
+08:13:15	
+08:13:15	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+08:13:32	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.
+11:18:19	© 2020 Microsoft Corporation. All rights reserved
+11:18:19	
+11:18:20	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'

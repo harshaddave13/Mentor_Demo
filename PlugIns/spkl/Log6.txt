@@ -1,0 +1,37 @@
+13:30:19	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+15:12:42	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+10:17:01	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+10:17:01	© 2020 Microsoft Corporation. All rights reserved
+10:17:01	
+10:17:01	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+10:17:12	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.
+14:45:15	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+14:45:15	© 2020 Microsoft Corporation. All rights reserved
+14:45:15	
+14:45:15	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+14:45:27	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.
+06:03:36	
+06:03:36	Exiting program with exception: Could not find an entity with name men_bookableresourcebooking and id 00000000-0000-0000-0000-000000000000 (172227150).
+12:26:57	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+14:59:59	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+15:14:59	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+15:14:59	© 2020 Microsoft Corporation. All rights reserved
+15:14:59	
+15:14:59	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+15:15:12	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.
+15:28:35	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+15:28:35	© 2020 Microsoft Corporation. All rights reserved
+15:28:35	
+15:28:35	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+15:28:49	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.
+15:32:58	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+15:32:58	© 2020 Microsoft Corporation. All rights reserved
+15:32:58	
+15:32:59	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+15:33:12	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.
+16:43:42	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+17:04:21	
+17:04:21	Exiting program with exception: Could not find an entity with name men_instructorschedule and id 00000000-0000-0000-0000-000000000000 (117156040).
+17:08:04	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+12:15:51	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+11:18:19	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]

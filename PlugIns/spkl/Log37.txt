@@ -1,0 +1,5 @@
+11:56:23	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+11:56:23	© 2020 Microsoft Corporation. All rights reserved
+11:56:23	
+11:56:23	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+11:56:40	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.

@@ -1,0 +1,28 @@
+06:03:36	CrmSvcUtil Error: 2 : Exiting program with exit code 2 due to exception : Exception details: 
+06:03:36	ErrorCode: 0x80040217
+06:03:36	Message: Could not find an entity with name men_bookableresourcebooking and id 00000000-0000-0000-0000-000000000000 (172227150).
+06:03:36	TimeStamp: 2024-03-20T06:03:38.4762957Z
+06:03:36	--
+06:03:36	Exception details: 
+06:03:36	ErrorCode: 0x80040217
+06:03:36	Message: Could not find an entity with name men_bookableresourcebooking and id 00000000-0000-0000-0000-000000000000 (172227150).
+06:03:36	TimeStamp: 2024-03-20T06:03:38.4762957Z
+06:03:36	--
+06:03:36	
+06:03:36	CrmSvcUtil Error: 2 : ===== DETAIL ======
+06:03:36	CrmSvcUtil Error: 2 : Source	: mscorlib
+06:03:36	Method	: HandleReturnMessage
+06:03:36	Date	: 06:03:36
+06:03:36	Time	: 20/03/2024
+06:03:36	Error	: Could not find an entity with name men_bookableresourcebooking and id 00000000-0000-0000-0000-000000000000 (172227150).
+06:03:36	Stack Trace	: Server stack trace: 
+06:03:36	   at System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+06:03:36	   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+06:03:36	   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+06:03:36	   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+06:03:36	
+06:03:36	Exception rethrown at [0]: 
+06:03:36	   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+06:03:36	   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+12:18:37	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.
+11:18:34	Code written to C:\Vigence\Projects\MentorFLT\Source\Mentor\PlugIns\EarlyBoundTypes.cs.

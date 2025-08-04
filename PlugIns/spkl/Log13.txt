@@ -1,0 +1,3 @@
+13:30:19	© 2020 Microsoft Corporation. All rights reserved
+13:30:19	
+13:30:19	Loading config from 'C:\Vigence\Projects\MentorFLT\Source\Mentor\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
